@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/BadrBoukries">
+  <a href="https://www.linkedin.com/in/badr-boukries-28663b270/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mon-portfolio-omega-wine.vercel.app">
@@ -92,6 +92,7 @@ Je suis à la recherche d'un **stage de fin d'études de 6 mois** (à partir d'A
 -   Développement Full-Stack
 -   Développement Logiciel
 -   Développement Web
+-   Développement Mobile
 
 Je suis ouvert à tous les projets innovants et défis techniques !
 
@@ -104,7 +105,7 @@ Je suis ouvert à tous les projets innovants et défis techniques !
   <br/><br/>
   📧 **Email** : <a href="mailto:badr4boukries@gmail.com">badr4boukries@gmail.com</a>
   <br/>
-  💼 **LinkedIn** : <a href="https://www.linkedin.com/in/BadrBoukries">linkedin.com/in/BadrBoukries</a>
+  💼 **LinkedIn** : <a href="https://www.linkedin.com/in/badr-boukries-28663b270/">linkedin.com/in/BadrBoukries</a>
   <br/>
   🌐 **Portfolio** : <a href="https://mon-portfolio-omega-wine.vercel.app">mon-portfolio-omega-wine.vercel.app</a>
   <br/>
