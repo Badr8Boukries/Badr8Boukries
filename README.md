@@ -72,27 +72,7 @@ Je poursuis actuellement mon Master et recherche activement un **stage en dével
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badr8Boukries&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Projets Phares
 
-### 🎬 CasFlow - Plateforme de Gestion de Projets Cinématographiques
-**Stack Technique :** `C# (.NET)` `React` `SQL Server`
-- Plateforme full-stack connectant talents et opportunités de casting
-- Dashboard admin pour gestion des projets, offres et rôles
-- Système de suivi des candidatures en temps réel
-- **Rôle :** Développeur full-stack & Coordinateur de projet
-
-### ⚡ ShareElec - Application d'Achat/Vente d'Électricité
-**Stack Technique :** `Java` `Spring Boot` `Angular` `Bootstrap` `Docker`
-- Architecture microservices pour trading d'électricité
-- Amélioration des performances avec pratiques DevOps
-- Intégration Keycloak pour l'authentification
-- **Rôle :** Développeur full-stack
-
-### 💻 Système de Gestion des Ventes PC/Téléphone
-**Stack Technique :** `C# (.NET)` `Angular` `Stripe API`
-- Plateforme e-commerce avec paiement intégré
-- Panel admin pour gestion inventaire et ventes
-- **Rôle :** Développeur full-stack
 
 ## 📈 Graphique d'Activité
 
