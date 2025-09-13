@@ -23,7 +23,6 @@
 > **Étudiant en Master 2 Informatique et Mobilité** passionné par la création de solutions full-stack innovantes. Je recherche activement un **stage en développement full-stack** pour mettre en pratique mes compétences et continuer à évoluer.
 
 - 🎓 **Master en Informatique et Mobilité** - Université de Haute Alsace, Mulhouse.
-- 🔭 Je travaille actuellement sur **CasFlow**, une plateforme de gestion de projets cinématographiques.
 - 🌱 J'apprends constamment de nouvelles technologies pour rester à la pointe.
 - 💡 J'aime résoudre des problèmes complexes avec des solutions créatives et efficaces.
 - 🤝 Excellent esprit d'équipe, je m'épanouis dans les environnements collaboratifs.
