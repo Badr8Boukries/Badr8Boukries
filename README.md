@@ -73,11 +73,6 @@ Je poursuis actuellement mon Master et recherche activement un **stage en dével
 
 
 
-## 📈 Graphique d'Activité
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badr8Boukries&theme=tokyo-night&hide_border=true" />
-</div>
 
 ## 🏆 Trophées GitHub
 
